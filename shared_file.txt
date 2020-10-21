@@ -1,2 +1,4 @@
 This is the shared file between all the branches including master branch
 This is the change done in the branch-one
+This is the change done by master first time
+This is the change done by branch-one second time
